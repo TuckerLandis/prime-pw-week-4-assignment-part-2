@@ -1,4 +1,6 @@
-# Tier 1 Week 4 - Part 2
+
+
+I thought for a second about this question then looked to my left and saw an effects pedal i use often. Not only does it literally have "input" and "output" jacks, b# Tier 1 Week 4 - Part 2
 
 This week we'll be pulling together all of the Javascript techniques you've learned thus far as well as practicing with HTML & CSS.
 
@@ -11,13 +13,13 @@ This week we'll be pulling together all of the Javascript techniques you've lear
 - HTML & CSS
 
 
-## Assignment - Styling with `CSS` 
+## Assignment - Styling with `CSS`
 
-Now let's practice some CSS! For this, you will update the index.html file and create a new CSS Stylesheet. 
+Now let's practice some CSS! For this, you will update the index.html file and create a new CSS Stylesheet.
 
 Requirements:
-- Place the existing `<h1>` inside of a `header` element and add a background-color to that header.
-- Create a stylesheet.css file and import it into the index.html file.
+x - Place the existing `<h1>` inside of a `header` element and add a background-color to that header.
+x - Create a stylesheet.css file and import it into the index.html file.
 - Add a new div with a class name of "info". Inside that div add an `<h2> My name is YOUR NAME </h2>` Add a background-color and a text color of your choice.
 - Add an image tag `<img>` and source an image of your main mode of transportation (you car, bus, scooter, bike, feet, etc)
 - Add an `<h3>` that explains your mode of transportation. Add a background-color and a text color of your choice.
